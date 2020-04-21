@@ -6,7 +6,7 @@ body {
 }
 .callout-container{
     height: 100vh;
-  background: url(images/whisky-img.jpg) no-repeat center center fixed; 
+  background: url(images/whiskey-img.jpg) no-repeat bottom center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
